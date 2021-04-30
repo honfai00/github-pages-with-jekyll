@@ -1,3 +1,8 @@
+---
+title: "my-first-blog-post-title"
+date: 2021-04-30
+---
+
 "keyboard Activity: Add some content to your blog
 Shortcut Note: Click this link to automatically complete steps 1-4.
 
